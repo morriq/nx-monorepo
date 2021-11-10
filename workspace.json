@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "react-mono": "apps/react-mono",
+    "react-mono-e2e": "apps/react-mono-e2e"
+  }
+}
